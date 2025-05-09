@@ -15,10 +15,8 @@ A sequential logic system built to function as a two-digit **digital counter**. 
 ## 👩‍💻 Team Members
 
 * Farida Waheed Abdelbary  
-* Mohamed Ahmed Mohamed Hassan  
-* Abdelrahman Salah El-dein Abdelaziz  
-* Raneem Ahmed Refaat  
-* Razan Ahmed Fawzy  
+* Mohamed Ahmed Mohamed Hassan   
+* Raneem Ahmed Refaat   
 
 ---
 
